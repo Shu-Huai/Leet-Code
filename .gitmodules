@@ -1,0 +1,6 @@
+[submodule "Leet-Code-Cpp"]
+	path = Leet-Code-Cpp
+	url = git@github.com:Shu-Huai/Leet-Code-Cpp.git
+[submodule "Leet-Code-Java"]
+	path = Leet-Code-Java
+	url = git@github.com:Shu-Huai/Leet-Code-Java.git
