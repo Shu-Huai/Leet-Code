@@ -4,3 +4,6 @@
 [submodule "Leet-Code-Java"]
 	path = Leet-Code-Java
 	url = git@github.com:Shu-Huai/Leet-Code-Java.git
+[submodule "Leet-Code-Sql"]
+	path = Leet-Code-Sql
+	url = git@github.com:Shu-Huai/Leet-Code-Sql.git
